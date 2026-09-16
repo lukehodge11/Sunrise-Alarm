@@ -5,7 +5,7 @@
 <h2>Description</h2>
 The purpose of this project was to create a way to wake my body up in the morning to light instead of sound. Our circadian rhythms are naturally synced to the sun, and because of this, waking up to bright light instead of sound has been shown to have positive affects on mood, alertness, stress levels, as well as other hormonal changes. So I wanted to create a mechanism to open my blinds mechanically, and then sync this mechanism to go off with my morning alarm. To open the blinds mechanically, I designed a 3D printed mounting bracket in SolidWorks that I screwed into my wall. I removed the twisting rod on the blinds and mounted a yellow TT motor onto the 3D-printed bracket using 2 zip ties. I designed and 3D printed a linkage to go onto the motor shaft to connect to the motor to the winding mechanism on the blinds. Now that the blinds were motorized, I coded a custom alarm program using an Arduino Mega 2560, C/C++ programming, and a RTC (real-time clock) chip. I then integrated these two systems so that the alarm would open my blinds at whatever time of day I choose. I synced this alarm system with my morning alarm, so that my blinds now open 5 minutes before my phone alarm goes off. I also added buttons to open and close the blinds at will, because I had to remove the manual twisting rod. The Arduino is powered by a USB outlet, and the motor is powered by a 12V direct-TV AC adapter that I found at Goodwill for $1.99. No pun intended, but the difference in how I feel from waking up to this system really is night and day. I am usually out of bed now before my phone alarm even goes off. 
 
-<h2>Sensors and Electronics Used</h2>
+<h2>Electronics Used</h2>
 
 - <b>Arduino Mega 2560</b>
 - <b>L298N motor controller</b>
