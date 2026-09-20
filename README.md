@@ -13,3 +13,13 @@ The purpose of this project was to create a way to wake my body up in the mornin
 - <b>DS3231 Real Time Clock RTC</b>
 - <b>yellow TT motor</b>
 
+<h2>Challenges and Solutions</h2>
+
+<p align="center">
+Winding Mechanism: <br>
+<img width="450" height="600" alt="sunrise alarm winding mechanism" src="https://github.com/user-attachments/assets/4cd81577-9b1d-4986-98ca-e9d26aa158d6" /><br><br>
+Electronics: <br>
+<img width="600" height="450" alt="sunrise alarm electronics" src="https://github.com/user-attachments/assets/676df752-1cb2-49e0-a02f-c3f4c61abcfd" /><br><br>
+
+
+
