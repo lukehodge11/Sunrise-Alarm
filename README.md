@@ -1,4 +1,4 @@
-# Sunrise-Alarm
+# Automated Blinds / Sunrise-Alarm
 
 ### [YouTube Demonstration](https://youtube.com/shorts/Jl2_w3eue-Q?feature=share) 
 
@@ -13,7 +13,6 @@ The purpose of this project was to create a way to wake my body up in the mornin
 - <b>DS3231 Real Time Clock RTC</b>
 - <b>yellow TT motor</b>
 
-<h2>Challenges and Solutions</h2>
 
 <p align="center">
 Winding Mechanism: <br>
